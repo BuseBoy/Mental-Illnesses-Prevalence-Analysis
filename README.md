@@ -4,7 +4,7 @@
   
   [![Python](https://img.shields.io/badge/Python-3.13.2-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
   [![Pandas](https://img.shields.io/badge/Pandas-2.3.1-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-  [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-11557c?style=flat)](https://matplotlib.org)
+  [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.6-11557c?style=flat)](https://matplotlib.org)
   [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
   
   [![Data Source](https://img.shields.io/badge/Data-Kaggle%20Dataset-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/imtkaggleteam/mental-health/data)
