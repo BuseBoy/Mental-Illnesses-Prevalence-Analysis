@@ -59,6 +59,41 @@ Total Records: 6420
 
 ---
 
+## Project Structure
+
+mental-health-analysis/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+│
+├── data/
+│   ├── raw/
+│   │   └── mental-illnesses-prevalence.csv
+│   └── processed/
+│       └── cleaned_data.csv (opsiyonel)
+│
+├── notebooks/
+│   └── mental_health_analysis.ipynb
+│
+├── src/
+│   ├── init.py
+│   ├── data_preprocessing.py
+│   ├── analysis.py
+│   └── visualization.py
+│
+├── reports/
+│   ├── figures/
+│   │   ├── yearly_changes.png
+│   │   ├── regional_comparison.png
+│   │   └── economic_comparison.png
+│   └── analysis_report.pdf
+│
+└── results/
+    └── summary_statistics.csv
+---
+
 ## 🛠️ Key Steps
 
 ### 1️⃣ Data Cleaning
