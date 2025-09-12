@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
+  [![Python](https://img.shields.io/badge/Python-3.13.2+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
   [![Pandas](https://img.shields.io/badge/Pandas-2.0.3-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
   [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-11557c?style=flat)](https://matplotlib.org)
   [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
