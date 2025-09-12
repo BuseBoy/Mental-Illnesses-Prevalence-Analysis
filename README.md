@@ -119,7 +119,7 @@ Total Records: 6420
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/BuseBoy/Mental-Illnesses-Prevalence-Analysis/tree/main
-cd mental-health-analysis
+git clone https://github.com/BuseBoy/Mental-Illnesses-Prevalence-Analysis.git
+cd Mental-Illnesses-Prevalence-Analysis
 pip install pandas matplotlib
 jupyter notebook analysis.ipynb
